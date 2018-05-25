@@ -1,0 +1,2 @@
+# GameInventory
+Angular Inventory App
